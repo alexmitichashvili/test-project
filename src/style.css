@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 24rem;
+  margin: 4rem auto;
+  padding: 0 1rem;
+}
+label { display: block; margin-bottom: 0.75rem; }
+input { width: 6rem; padding: 0.25rem; }
+#result { font-size: 1.25rem; font-weight: 600; margin-top: 1.5rem; }
+footer { margin-top: 3rem; font-size: 0.75rem; color: #888; }
